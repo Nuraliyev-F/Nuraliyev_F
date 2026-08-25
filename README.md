@@ -30,7 +30,7 @@ HTML5 • CSS3 • Bootstrap • Tailwind CSS • JavaScript • React • AI To
 ## 🤝 Let's Connect
 
 - 📱 Telegram: [@Frontend_0416](https://t.me/Frontend_0416)
-- 💻 GitHub: [@Nuraliyev_F](https://github.com/Nuraliyev_F)
+- 💻 GitHub: [@Nuraliyev-F](https://github.com/Nuraliyev-F)
 
 ---
 
